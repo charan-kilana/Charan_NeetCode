@@ -14,3 +14,12 @@ python -m pytest -v
 | 1 | Arrays | Contains Duplicate  | Set, Sorting, Dictionary  | [Code](./arrays/contains_duplicate.py) | [NeetCode](https://neetcode.io/problems/duplicate-integer/question?list=neetcode150) | ✅ Done |
 | 2 | Arrays | Valid Anagram       | Dictionary, Sorting       | [Code](./arrays/valid_anagram.py) | [NeetCode](https://neetcode.io/problems/is-anagram/question?list=neetcode150)             | ✅ Done |
 | 3 | Arrays | Two Sum             | Brute Force (Nested Loop) | [Code](./arrays/two_sum.py) | [NeetCode](https://neetcode.io/problems/two-sum) | ✅ Done |
+
+---
+
+## 🚀 Next
+
+Update after each problem:
+
+```markdown
+| 4 | Arrays | ... | ... | [Code](...) | [NeetCode](...) | ⏳ |
