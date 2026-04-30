@@ -24,3 +24,6 @@ def test_two_sum_large():
 # -------- Duplicate values --------
 def test_two_sum_duplicates():
     assert sol.twoSum([3, 3], 6) == [0, 1]
+
+def test_two_sum_same_values():
+    assert sol.twoSum([5, 5], 10) == [0, 1]
