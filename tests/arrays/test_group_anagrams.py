@@ -30,3 +30,15 @@ def test_all_same():
     result = sol.groupAnagrams(["aaa","aaa","aaa"])
     expected = [["aaa","aaa","aaa"]]
     assert normalize(result) == normalize(expected)
+
+# -------- Single character --------
+def test_single_character():
+    result = sol.groupAnagrams(["x"])
+    expected = [["x"]]
+    assert normalize(result) == normalize(expected)
+
+# -------- Empty string --------
+def test_empty_string():
+    result = sol.groupAnagrams([""])
+    expected = [[""]]
+    assert normalize(result) == normalize(expected)
