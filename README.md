@@ -13,6 +13,8 @@ python -m pytest -v
 | 2   | Arrays | Valid Anagram      | [Code](./arrays/valid_anagram.py)      | [NeetCode](https://neetcode.io/problems/is-anagram/question?list=neetcode150)        | ✅ Done |
 | 3   | Arrays | Two Sum            | [Code](./arrays/two_sum.py)            | [NeetCode](https://neetcode.io/problems/two-integer-sum/solution)                    | ✅ Done |
 | 4   | Arrays | Group Anagrams     | [Code](./arrays/group_anagrams.py)     | [NeetCode](https://neetcode.io/problems/anagram-groups/question)                     | ✅ Done |
+| 5   | Arrays | Top K Frequent Elements | [Code](./arrays/top_k_frequent.py)     | [NeetCode](https://neetcode.io/problems/top-k-elements-in-list/question)                     | ✅ Done |
 
 
-| 5 | Arrays | ... | ... | [Code](...) | [NeetCode](...) | ⏳ |
+
+| 6 | Arrays | ... | ... | [Code](...) | [NeetCode](...) | ⏳ |
