@@ -15,6 +15,7 @@ python -m pytest -v
 | 4   | Arrays | Group Anagrams     | [Code](./arrays/group_anagrams.py)     | [NeetCode](https://neetcode.io/problems/anagram-groups/question)                     | ✅ Done |
 | 5   | Arrays | Top K Frequent Elements | [Code](./arrays/top_k_frequent.py)| [NeetCode](https://neetcode.io/problems/top-k-elements-in-list/question)             | ✅ Done |
 | 6   | Arrays | Encode and Decode Strings | [Code](./arrays/top_k_frequent.py)| [NeetCode](https://neetcode.io/problems/string-encode-and-decode/question)         | ✅ Done |
+| 7   | Arrays | Prod-array-self | [Code](./arrays/top_k_frequent.py)| [NeetCode](https://neetcode.io/problems/products-of-array-discluding-self/question?list=neetcode150)         | ✅ Done |
 
 
 
