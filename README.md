@@ -16,7 +16,7 @@ python -m pytest -v
 | 5   | Arrays | Top K Frequent Elements | [Code](./arrays/top_k_frequent.py)| [NeetCode](https://neetcode.io/problems/top-k-elements-in-list/question)             | ✅ Done |
 | 6   | Arrays | Encode and Decode Strings | [Code](./arrays/top_k_frequent.py)| [NeetCode](https://neetcode.io/problems/string-encode-and-decode/question)         | ✅ Done |
 | 7   | Arrays | Product of Array Except Self | [Code](./arrays/product_except_self.py)   | [NeetCode](https://neetcode.io/problems/products-of-array-discluding-self/question)           | ✅ Done |
-| 8   | Arrays | Valid Sudko | [Code](./arrays/valid_sudoko.py)   | [NeetCode](https://neetcode.io/problems/valid-sudoku/question)           | ✅ Done |
+| 8   | Arrays | Valid Sudko | [Code](./arrays/valid_sudoku.py)   | [NeetCode](https://neetcode.io/problems/valid-sudoku/question)           | ✅ Done |
 
 
 
