@@ -1,22 +1,31 @@
-from typing import List
+from arrays.longest_consecutive_sequence import Solution
 
-class Solution:
-    def longestConsecutive(self, nums: List[int]) -> int:
-        
-        # BFM
-        nums_set = set(nums)
-        output = 0
+sol = Solution()
 
-        for num in nums_set:
+# -------- Basic --------
+def test_basic():
+    assert sol.longestConsecutive([100,4,200,1,3,2]) == 4
 
-            length = 1
+# -------- Consecutive sequence --------
+def test_full_sequence():
+    assert sol.longestConsecutive([1,2,3,4,5]) == 5
 
-            # Start only from beginning of sequence
-            if (num - 1) not in nums_set:
+# -------- Empty array --------
+def test_empty():
+    assert sol.longestConsecutive([]) == 0
 
-                while num + length in nums_set:
-                    length += 1
+# -------- Single element --------
+def test_single():
+    assert sol.longestConsecutive([7]) == 1
 
-            output = max(length, output)
+# -------- Duplicates --------
+def test_duplicates():
+    assert sol.longestConsecutive([1,2,2,3]) == 3
 
-        return output
+# -------- Negative numbers --------
+def test_negative_numbers():
+    assert sol.longestConsecutive([-1,0,1,2]) == 4
+
+# -------- No consecutive --------
+def test_no_consecutive():
+    assert sol.longestConsecutive([10,30,50]) == 1
