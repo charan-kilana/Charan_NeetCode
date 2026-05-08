@@ -1,14 +1,27 @@
-class Solution:
-    def isPalindrome(self, s: str) -> bool:
+from two_pointers.valid_palindrome import Solution
 
-        # Brute Force Method
-        cleaned_string = ""
+sol = Solution()
 
-        # Remove non-alphanumeric characters
-        # Convert uppercase to lowercase
-        for ch in s:
-            if ch.isalnum():
-                cleaned_string += ch.lower()
+# -------- Basic palindrome --------
+def test_basic_palindrome():
+    assert sol.isPalindrome("madam") == True
 
-        # Compare string with reverse
-        return cleaned_string == cleaned_string[::-1]
+# -------- Mixed characters --------
+def test_special_characters():
+    assert sol.isPalindrome("A man, a plan, a canal: Panama") == True
+
+# -------- Not palindrome --------
+def test_not_palindrome():
+    assert sol.isPalindrome("race a car") == False
+
+# -------- Empty string --------
+def test_empty_string():
+    assert sol.isPalindrome("") == True
+
+# -------- Numbers --------
+def test_numbers():
+    assert sol.isPalindrome("121") == True
+
+# -------- Alphanumeric --------
+def test_alphanumeric():
+    assert sol.isPalindrome("0P") == False
