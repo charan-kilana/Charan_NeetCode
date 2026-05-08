@@ -18,6 +18,7 @@ python -m pytest -v
 | 7   | Arrays | Product of Array Except Self | [Code](./arrays/product_except_self.py)   | [NeetCode](https://neetcode.io/problems/products-of-array-discluding-self/question)           | ✅ Done |
 | 8   | Arrays | Valid Sudko | [Code](./arrays/valid_sudoku.py)   | [NeetCode](https://neetcode.io/problems/valid-sudoku/question)           | ✅ Done |
 | 9   | Arrays | Longest Consecutive Sequence | [Code](./arrays/longest_consecutive_sequence.py)   | [NeetCode](https://neetcode.io/problems/longest-consecutive-sequence/question)           | ✅ Done |
+| 10 | Two Pointers | Valid Palindrome | [Code](./two_pointers/valid_palindrome.py) | [NeetCode](https://neetcode.io/problems/is-palindrome/question) | ✅ Done |
 
 
 
