@@ -25,3 +25,7 @@ def test_numbers():
 # -------- Alphanumeric --------
 def test_alphanumeric():
     assert sol.isPalindrome("0P") == False
+
+# -------- Sentence palindrome --------
+def test_sentence_palindrome():
+    assert sol.isPalindrome("Was it a car or a cat I saw?") == True
