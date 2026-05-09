@@ -1,4 +1,4 @@
-from arrays.two_sum import Solution
+from src.arrays.two_sum import Solution
 
 sol = Solution()
 

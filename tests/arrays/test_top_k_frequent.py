@@ -1,4 +1,4 @@
-from arrays.top_k_frequent import Solution
+from src.arrays.top_k_frequent import Solution
 
 sol = Solution()
 

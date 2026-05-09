@@ -1,4 +1,4 @@
-from arrays.longest_consecutive_sequence import Solution
+from src.arrays.longest_consecutive_sequence import Solution
 
 sol = Solution()
 
