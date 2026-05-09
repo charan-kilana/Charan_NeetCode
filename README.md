@@ -19,6 +19,7 @@ python -m pytest -v
 | 8   | Arrays | Valid Sudko | [Code](./arrays/valid_sudoku.py)   | [NeetCode](https://neetcode.io/problems/valid-sudoku/question)           | ✅ Done |
 | 9   | Arrays | Longest Consecutive Sequence | [Code](./arrays/longest_consecutive_sequence.py)   | [NeetCode](https://neetcode.io/problems/longest-consecutive-sequence/question)           | ✅ Done |
 | 10 | Two Pointers | Valid Palindrome | [Code](./two_pointers/valid_palindrome.py) | [NeetCode](https://neetcode.io/problems/is-palindrome/question?list=neetcode150) | ✅ Done |
+| 11 | Two Pointers | Two Sum ii | [Code](./two_pointers/two_sum_ii.py) | [NeetCode](https://neetcode.io/problems/two-integer-sum-ii/question) | ✅ Done |
 
 
-| 11 | Two Pointer | ... | ... | [Code](...) | [NeetCode](...) | ⏳ |
+| 12 | Two Pointer | ... | ... | [Code](...) | [NeetCode](...) | ⏳ |
