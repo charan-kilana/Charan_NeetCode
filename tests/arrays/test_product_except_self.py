@@ -1,4 +1,4 @@
-from arrays.product_except_self import Solution
+from src.arrays.product_except_self import Solution
 
 sol = Solution()
 

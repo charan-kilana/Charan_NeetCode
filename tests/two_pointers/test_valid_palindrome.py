@@ -1,4 +1,4 @@
-from two_pointers.valid_palindrome import Solution
+from src.two_pointers.valid_palindrome import Solution
 
 sol = Solution()
 

@@ -1,4 +1,4 @@
-from arrays.encode_decode_strings import Solution
+from src.arrays.encode_decode_strings import Solution
 
 sol = Solution()
 

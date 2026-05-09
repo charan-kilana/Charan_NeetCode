@@ -1,4 +1,4 @@
-from arrays.valid_sudoku import Solution
+from src.arrays.valid_sudoku import Solution
 
 sol = Solution()
 

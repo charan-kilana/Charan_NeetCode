@@ -1,4 +1,4 @@
-from two_pointers.two_sum_ii import Solution
+from src.two_pointers.two_sum_ii import Solution
 
 sol = Solution()
 

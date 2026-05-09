@@ -1,4 +1,4 @@
-from arrays.contains_duplicate import Solution
+from src.arrays.contains_duplicate import Solution
 
 sol = Solution()
 

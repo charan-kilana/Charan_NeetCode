@@ -1,4 +1,4 @@
-from arrays.group_anagrams import Solution
+from src.arrays.group_anagrams import Solution
 
 sol = Solution()
 
