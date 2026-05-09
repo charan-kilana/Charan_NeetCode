@@ -6,7 +6,7 @@ def test_basic():
     assert sol.twoSum([2, 7, 11, 15], 9) == [1, 2]
 
 def test_middle_pair():
-    assert sol.twoSum([1, 2, 3, 4, 6], 7) == [3, 4]
+    assert sol.twoSum([1, 2, 3, 4, 8], 7) == [3, 4]
 
 def test_last_pair():
     assert sol.twoSum([1, 2, 3, 4, 5], 9) == [4, 5]
