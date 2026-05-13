@@ -1,0 +1,24 @@
+from sliding_window.longest_substring_without_repeating import Solution
+
+sol = Solution()
+
+def test_basic():
+    assert sol.lengthOfLongestSubstring("abcabcbb") == 3
+
+def test_all_same():
+    assert sol.lengthOfLongestSubstring("bbbbb") == 1
+
+def test_mixed():
+    assert sol.lengthOfLongestSubstring("pwwkew") == 3
+
+def test_empty_string():
+    assert sol.lengthOfLongestSubstring("") == 0
+
+def test_single_character():
+    assert sol.lengthOfLongestSubstring("a") == 1
+
+def test_no_repeating():
+    assert sol.lengthOfLongestSubstring("abcdef") == 6
+
+def test_with_space():
+    assert sol.lengthOfLongestSubstring("a b c a") == 5
