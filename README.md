@@ -22,7 +22,7 @@ python -m pytest -v
 | 11 | Two Pointers | Two Sum ii | [Code](./src/two_pointers/two_sum_ii.py) | [NeetCode](https://neetcode.io/problems/two-integer-sum-ii/question) | ✅ Done |
 | 12 | Two Pointers | Three Sum | [Code](./src/two_pointers/three_sum.py) | [NeetCode](https://neetcode.io/problems/three-integer-sum/question) | ✅ Done |
 | 13 | Two Pointers | Container With Most Water | [Code](./src/two_pointers/container_with_most_water.py) | [NeetCode](https://neetcode.io/problems/max-water-container/question) | ✅ Done |
-| 14 | Two Pointers | Container With Most Water | [Code](./src/two_pointers/) | [NeetCode](https://neetcode.io/problems/trapping-rain-water/question?list=neetcode150) | ❌ Not Done |
+| 14 | Two Pointers | Trapping Rain Water | [Code](./src/two_pointers/) | [NeetCode](https://neetcode.io/problems/trapping-rain-water/question?list=neetcode150) | ❌ Not Done |
 | 15 | Sliding Window | Best Time to Buy and Sell Stock | [Code](./src/sliding_window/best_time_to_buy_and_sell_stock.py) | [NeetCode](https://neetcode.io/problems/buy-and-sell-crypto/question) | ✅ Done |
 | 16 | Sliding Window | Longest Substring without Repeating | [Code](./src/sliding_window/longest_substring_without_repeating.py) | [NeetCode](https://neetcode.io/problems/longest-substring-without-duplicates/question) | ✅ Done |
 
