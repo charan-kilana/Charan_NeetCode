@@ -1,20 +1,24 @@
-class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
-        
-        # Brute Force Method
-        max_length = 0
+from sliding_window.longest_substring_without_repeating import Solution
 
-        for i in range(len(s)):
-            seen = set()
-            length = 0
+sol = Solution()
 
-            for j in range(i, len(s)):
-                if s[j] in seen:
-                    break
+def test_basic():
+    assert sol.lengthOfLongestSubstring("abcabcbb") == 3
 
-                seen.add(s[j])
-                length += 1
+def test_all_same():
+    assert sol.lengthOfLongestSubstring("bbbbb") == 1
 
-            max_length = max(max_length, length)
+def test_mixed():
+    assert sol.lengthOfLongestSubstring("pwwkew") == 3
 
-        return max_length
+def test_empty_string():
+    assert sol.lengthOfLongestSubstring("") == 0
+
+def test_single_character():
+    assert sol.lengthOfLongestSubstring("a") == 1
+
+def test_no_repeating():
+    assert sol.lengthOfLongestSubstring("abcdef") == 6
+
+def test_with_space():
+    assert sol.lengthOfLongestSubstring("a b c a") == 5
