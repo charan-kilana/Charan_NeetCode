@@ -6,7 +6,7 @@ def test_basic():
     assert sol.characterReplacement("AAABABB", 1) == 5
 
 def test_example_two():
-    assert sol.characterReplacement("AABBBABBA", 1) == 5
+    assert sol.characterReplacement("AABBBABBA", 1) == 6
 
 def test_all_same():
     assert sol.characterReplacement("AAAA", 2) == 4
