@@ -28,7 +28,7 @@ python -m pytest -v
 | 17 | Sliding Window | Longest Repeating Character Replacement | [Code](./src/sliding_window/longest_repeating_character_replacement.py) | [NeetCode](https://neetcode.io/problems/longest-repeating-substring-with-replacement/question) | ✅ Done |
 | 18 | Sliding Window | Permutation in String | [Code](./src/sliding_window/permutation_in_string.py) | [NeetCode](https://neetcode.io/problems/permutation-string/question) | ✅ Done |
 | 19 | Sliding Window | Minimum Window Substring | [Code](./src/sliding_window/) | [NeetCode](https://neetcode.io/problems/minimum-window-with-characters/question?list=neetcode150) | ❌ Not Done <b style="color:red;">HARD</b> |
-| 20 | Sliding Window | Sliding Window Maximum | [Code](./src/sliding_window/permutation_in_string.py) | [NeetCode](https://neetcode.io/problems/sliding-window-maximum/question?list=neetcode150) | ❌ Not Done <b style="color:red;">HARD</b> |
+| 20 | Sliding Window | Sliding Window Maximum | [Code](./src/sliding_window/) | [NeetCode](https://neetcode.io/problems/sliding-window-maximum/question?list=neetcode150) | ❌ Not Done <b style="color:red;">HARD</b> |
 | 21 | Stack | Valid Parentheses | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/validate-parentheses/question?list=neetcode150) | ✅ Done |
 | 22 | Stack | Min Stack | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/minimum-stack/question?list=neetcode150) | ✅ Done |
 | 23 | Stack | Evaluate Reverse Polish Notation | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/evaluate-reverse-polish-notation/question?list=neetcode150) | ✅ Done |
