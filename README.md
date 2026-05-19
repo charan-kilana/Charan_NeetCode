@@ -29,9 +29,9 @@ python -m pytest -v
 | 18 | Sliding Window | Permutation in String | [Code](./src/sliding_window/permutation_in_string.py) | [NeetCode](https://neetcode.io/problems/permutation-string/question) | ✅ Done |
 | 19 | Sliding Window | Minimum Window Substring | [Code](./src/sliding_window/) | [NeetCode](https://neetcode.io/problems/minimum-window-with-characters/question?list=neetcode150) | ❌ Not Done <b style="color:red;">HARD</b> |
 | 20 | Sliding Window | Sliding Window Maximum | [Code](./src/sliding_window/) | [NeetCode](https://neetcode.io/problems/sliding-window-maximum/question?list=neetcode150) | ❌ Not Done <b style="color:red;">HARD</b> |
-| 21 | Stack | Valid Parentheses | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/validate-parentheses/question?list=neetcode150) | ✅ Done |
-| 22 | Stack | Min Stack | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/minimum-stack/question?list=neetcode150) | ✅ Done |
-| 23 | Stack | Evaluate Reverse Polish Notation | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/evaluate-reverse-polish-notation/question?list=neetcode150) | ✅ Done |
+| 21 | Stack | Valid Parentheses | [Code](./src/stack/valid_parentheses.py) | [NeetCode](https://neetcode.io/problems/validate-parentheses/question?list=neetcode150) | ✅ Done |
+| 22 | Stack | Min Stack | [Code](./src/stack/min_stack.py) | [NeetCode](https://neetcode.io/problems/minimum-stack/question?list=neetcode150) | ✅ Done |
+| 23 | Stack | Evaluate Reverse Polish Notation | [Code](./src/stack/evaluate_reverse_polish_notation.py) | [NeetCode](https://neetcode.io/problems/evaluate-reverse-polish-notation/question?list=neetcode150) | ✅ Done |
 | 24 | Stack | Daily Temperatures | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/daily-temperatures/question?list=neetcode150) | ✅ Done |
 | 24 | Stack | Car Fleet | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/car-fleet/question?list=neetcode150) | ✅ Done |
 | 25 | Stack | Largest Rectangle In Histogram | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/car-fleet/question?list=neetcode150) | ❌ Not Done <b style="color:red;">HARD</b> |
