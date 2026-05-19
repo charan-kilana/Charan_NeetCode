@@ -22,10 +22,19 @@ python -m pytest -v
 | 11 | Two Pointers | Two Sum ii | [Code](./src/two_pointers/two_sum_ii.py) | [NeetCode](https://neetcode.io/problems/two-integer-sum-ii/question) | ✅ Done |
 | 12 | Two Pointers | Three Sum | [Code](./src/two_pointers/three_sum.py) | [NeetCode](https://neetcode.io/problems/three-integer-sum/question) | ✅ Done |
 | 13 | Two Pointers | Container With Most Water | [Code](./src/two_pointers/container_with_most_water.py) | [NeetCode](https://neetcode.io/problems/max-water-container/question) | ✅ Done |
-| 14 | Two Pointers | Trapping Rain Water | [Code](./src/two_pointers/) | [NeetCode](https://neetcode.io/problems/trapping-rain-water/question?list=neetcode150) | ❌ Not Done |
+| 14 | Two Pointers | Trapping Rain Water | [Code](./src/two_pointers/) | [NeetCode](https://neetcode.io/problems/trapping-rain-water/question?list=neetcode150) | ❌ Not Done <b style="color:red;">HARD</b>|
 | 15 | Sliding Window | Best Time to Buy and Sell Stock | [Code](./src/sliding_window/best_time_to_buy_and_sell_stock.py) | [NeetCode](https://neetcode.io/problems/buy-and-sell-crypto/question) | ✅ Done |
 | 16 | Sliding Window | Longest Substring without Repeating | [Code](./src/sliding_window/longest_substring_without_repeating.py) | [NeetCode](https://neetcode.io/problems/longest-substring-without-duplicates/question) | ✅ Done |
 | 17 | Sliding Window | Longest Repeating Character Replacement | [Code](./src/sliding_window/longest_repeating_character_replacement.py) | [NeetCode](https://neetcode.io/problems/longest-repeating-substring-with-replacement/question) | ✅ Done |
 | 18 | Sliding Window | Permutation in String | [Code](./src/sliding_window/permutation_in_string.py) | [NeetCode](https://neetcode.io/problems/permutation-string/question) | ✅ Done |
+| 19 | Sliding Window | Minimum Window Substring | [Code](./src/sliding_window/) | [NeetCode](https://neetcode.io/problems/minimum-window-with-characters/question?list=neetcode150) | ❌ Not Done <b style="color:red;">HARD</b> |
+| 20 | Sliding Window | Sliding Window Maximum | [Code](./src/sliding_window/permutation_in_string.py) | [NeetCode](https://neetcode.io/problems/sliding-window-maximum/question?list=neetcode150) | ❌ Not Done <b style="color:red;">HARD</b> |
+| 21 | Stack | Valid Parentheses | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/validate-parentheses/question?list=neetcode150) | ✅ Done |
+| 22 | Stack | Min Stack | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/minimum-stack/question?list=neetcode150) | ✅ Done |
+| 23 | Stack | Evaluate Reverse Polish Notation | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/evaluate-reverse-polish-notation/question?list=neetcode150) | ✅ Done |
+| 24 | Stack | Daily Temperatures | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/daily-temperatures/question?list=neetcode150) | ✅ Done |
+| 24 | Stack | Car Fleet | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/car-fleet/question?list=neetcode150) | ✅ Done |
+| 25 | Stack | Largest Rectangle In Histogram | [Code](./src/stack/) | [NeetCode](https://neetcode.io/problems/car-fleet/question?list=neetcode150) | ❌ Not Done <b style="color:red;">HARD</b> |
 
-| 19 | Sliding Window | ... | ... | [Code](...) | [NeetCode](...) | ⏳ |
+
+| 26 | Linked List | ... | ... | [Code](...) | [NeetCode](...) | ⏳ |
